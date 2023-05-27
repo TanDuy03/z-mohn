@@ -1,0 +1,16 @@
+{
+    "name": "tanduy/duan1",
+    "autoload": {
+        "psr-4": {
+            "Duan1\\": "./",
+            "pdo\\": "././"
+        }
+    },
+    "authors": [
+        {
+            "name": "TanDuy",
+            "email": "tanduy@gmail.com"
+        }
+    ],
+    "require": {}
+}
